@@ -22,4 +22,3 @@ d1 = obs.next_transit(sun)
 
 print("rising sun (UTC time): ", r1)
 print("setting sun (UTC time): ", s1)
-print(type(r1))
