@@ -3,7 +3,7 @@ import ephem
 
 obs = ephem.Observer()
 
-#Change latitude, longitude and date variables to get
+#Change latitude, longitude and date variables to get location based sun rising and setting times.
 lat = '51.509865'
 long = '-0.118092'
 date = '2020/4/22'
